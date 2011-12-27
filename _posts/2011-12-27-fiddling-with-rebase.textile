@@ -1,0 +1,11 @@
+---
+layout: post
+title: Fiddling with rebase
+categories:
+- "on"
+- dev
+updated_at: 2011-12-27
+uuid: FC506DE5-FF90-4655-9B08-76FB583B8865
+---
+
+After having changed around some of the stylesheet options, I find that my links actually go to my posts. Sometimes, technology makes me feel like some sort of eldritch wizard; here, though, I feel more like some green apprentice, fortunate to have the sorcerous wisdom of <a href="http://orta.github.com">orta</a> bestowed upon me.
