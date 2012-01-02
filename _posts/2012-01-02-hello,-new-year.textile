@@ -1,0 +1,25 @@
+---
+layout: post
+title: Hello, New Year.
+categories:
+- "on"
+- dev
+updated_at: 2011-12-27
+uuid: FC506DE5-FF90-4655-9B08-76FB583B8865
+---
+
+So, it's a New Year. I guess this is when people make resolutions, but I'm not sure I want to. I've already been trying really hard to live my life like I want to. I've been taking opportunities that come up and so on. I'd like to write more,
+so I'm doing this. We'll see if it pans out- I hope it does. I love working with GitHub. It's very pleasant.
+
+So, how did I celebrate the holidays? Christmas was pretty much par for the course- big family party, gifts exchanged, smiles, all that. It was good fun, though, and I didn't find myself too cynical to enjoy the Christmas Carols completely this year.
+That's an improvement. I got a new little laptop that's perfect for writing up stuff like this, and I'm hoping it'll inspire me to pick up a new programming language. I'm tempted to try to learn Ruby, just because it seems awesome and <a href="http://orta.github.com">orta</a> uses it.
+Bookwise, I got some interesting stuff. My grandmother gave me a book by a scholar named Stanley Fish. I felt pleased with myself; I actually knew the author before I recognized the book, and I had an opinion on him (specifically, his views on Milton- look them up, they're silly).
+Elsewise, the best thing came from a certain Karen, who made up a series of four prints of some of my favorite bands, in nice frames and all. I'm still looking forward to hanging them up.
+
+Of course, New Years was more interesting than a laundry list of Things I Got. It is, instead, a laundry list of explosions. I'll add some pictures later, but the basic theme of the party was "things that go up or blow up". My brother made a
+massive firework thing with a bicycle wheel and more than a dozen rockets- it was blindingly bright, if brief. We set a toy motorcycle on fire and jumped a jump, doused our christmas tree in methane and ignited it, and set off a wax bomb. The last one
+was particularly pyrotechnic; if you ever get the chance to do that, you should. The night, as it usually does, took a turn for the weird around 1:30, but there were no real problems. All in all, it was a good time.
+
+That's all I've got. It's fun to write, though. I hope this becomes habitual.
+
+-Doc
